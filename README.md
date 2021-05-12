@@ -1,7 +1,7 @@
--  Hi, I’m Kunduz from Kyrgyzstan
+-  Hi, I’m Kunduz
 -  I’m currently learning Android Kotlin in "50 000 Programmers" project
 -  I’m self-taught, have learned Html, Css, Java Core
--  I have a goal to learn Kotlin, Java ME, Swift, Python 
+-  I have a goal to learn Kotlin, Java, Python, Swift, C#
 - 📫 talaybekovna.kunduz@gmail.com
 
 <!---

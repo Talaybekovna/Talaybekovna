@@ -1,6 +1,6 @@
 -  Hi, I’m Kunduz
 -  I’m currently learning Android Kotlin in "50 000 Programmers" project
--  I’m self-taught and have a goal to learn Kotlin, Java, Python, Swift, C#
+-  I’m self-taught and have a goal to learn Kotlin, Java, Python, Swift
 -  Working on my own project "Mom's Helper"
 - 📫 talaybekovna.kunduz@gmail.com
 
